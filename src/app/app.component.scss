@@ -1,8 +1,15 @@
 h1{
-    color: rgb(31, 211, 169);
-
-    
+   font-family: serif;
+   color: #2f4f4f;
+   margin-bottom: 10px;
+   
 }
+
+
+#page-title{
+    font-family: sans-serif
+}
+
 
 @import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
 
@@ -12,4 +19,13 @@ h1{
     font-weight: 400;
     font-style: normal;
   }
-  
+
+
+li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    background-color: rgb(220, 201, 187);
+    color: rgb(149, 107, 47);
+
+}
